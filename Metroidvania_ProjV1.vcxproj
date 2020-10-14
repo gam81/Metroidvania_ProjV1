@@ -143,18 +143,22 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\..\gam81\Metroidvania_CS1666\background.cpp" />
+    <ClCompile Include="..\..\gam81\Metroidvania_CS1666\button.cpp" />
     <ClCompile Include="..\..\gam81\Metroidvania_CS1666\entity.cpp" />
     <ClCompile Include="..\..\gam81\Metroidvania_CS1666\game.cpp" />
     <ClCompile Include="..\..\gam81\Metroidvania_CS1666\main.cpp" />
     <ClCompile Include="..\..\gam81\Metroidvania_CS1666\sprite.cpp" />
     <ClCompile Include="..\..\gam81\Metroidvania_CS1666\tile.cpp" />
+    <ClCompile Include="..\..\gam81\Metroidvania_CS1666\tilemap.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\gam81\Metroidvania_CS1666\background.h" />
+    <ClInclude Include="..\..\gam81\Metroidvania_CS1666\button.h" />
     <ClInclude Include="..\..\gam81\Metroidvania_CS1666\entity.h" />
     <ClInclude Include="..\..\gam81\Metroidvania_CS1666\game.h" />
     <ClInclude Include="..\..\gam81\Metroidvania_CS1666\sprite.h" />
     <ClInclude Include="..\..\gam81\Metroidvania_CS1666\tile.h" />
+    <ClInclude Include="..\..\gam81\Metroidvania_CS1666\tilemap.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

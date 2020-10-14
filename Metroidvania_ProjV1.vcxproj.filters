@@ -33,6 +33,12 @@
     <ClCompile Include="..\..\gam81\Metroidvania_CS1666\background.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\gam81\Metroidvania_CS1666\button.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\gam81\Metroidvania_CS1666\tilemap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\gam81\Metroidvania_CS1666\entity.h">
@@ -48,6 +54,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="..\..\gam81\Metroidvania_CS1666\background.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\gam81\Metroidvania_CS1666\button.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\gam81\Metroidvania_CS1666\tilemap.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
