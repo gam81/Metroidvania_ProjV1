@@ -39,6 +39,15 @@
     <ClCompile Include="..\..\gam81\Metroidvania_CS1666\tilemap.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\gam81\Metroidvania_CS1666\physics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\gam81\Metroidvania_CS1666\block.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\gam81\Metroidvania_CS1666\enemies.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\gam81\Metroidvania_CS1666\entity.h">
@@ -60,6 +69,15 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="..\..\gam81\Metroidvania_CS1666\tilemap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\gam81\Metroidvania_CS1666\physics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\gam81\Metroidvania_CS1666\block.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\gam81\Metroidvania_CS1666\enemies.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
