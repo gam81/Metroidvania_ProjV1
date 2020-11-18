@@ -148,8 +148,10 @@
     <ClCompile Include="..\..\gam81\Metroidvania_CS1666\enemies.cpp" />
     <ClCompile Include="..\..\gam81\Metroidvania_CS1666\entity.cpp" />
     <ClCompile Include="..\..\gam81\Metroidvania_CS1666\game.cpp" />
+    <ClCompile Include="..\..\gam81\Metroidvania_CS1666\gamemap.cpp" />
     <ClCompile Include="..\..\gam81\Metroidvania_CS1666\main.cpp" />
     <ClCompile Include="..\..\gam81\Metroidvania_CS1666\physics.cpp" />
+    <ClCompile Include="..\..\gam81\Metroidvania_CS1666\projectile.cpp" />
     <ClCompile Include="..\..\gam81\Metroidvania_CS1666\sprite.cpp" />
     <ClCompile Include="..\..\gam81\Metroidvania_CS1666\tile.cpp" />
     <ClCompile Include="..\..\gam81\Metroidvania_CS1666\tilemap.cpp" />
@@ -161,7 +163,9 @@
     <ClInclude Include="..\..\gam81\Metroidvania_CS1666\enemies.h" />
     <ClInclude Include="..\..\gam81\Metroidvania_CS1666\entity.h" />
     <ClInclude Include="..\..\gam81\Metroidvania_CS1666\game.h" />
+    <ClInclude Include="..\..\gam81\Metroidvania_CS1666\gamemap.h" />
     <ClInclude Include="..\..\gam81\Metroidvania_CS1666\physics.h" />
+    <ClInclude Include="..\..\gam81\Metroidvania_CS1666\projectile.h" />
     <ClInclude Include="..\..\gam81\Metroidvania_CS1666\sprite.h" />
     <ClInclude Include="..\..\gam81\Metroidvania_CS1666\tile.h" />
     <ClInclude Include="..\..\gam81\Metroidvania_CS1666\tilemap.h" />
